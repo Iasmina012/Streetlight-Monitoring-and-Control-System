@@ -54,7 +54,7 @@ This project aims to reduce electricity consumption by activating streetlights o
 - Output: Digital switch display (0 and 1)
 - Detection Distance: 3 - 7m (adjustable)
   
-![image](https://github.com/user-attachments/assets/7624bc70-3c15-451e-abf2-4b1b71f4076d)
+![image](https://github.com/user-attachments/assets/30c3358f-91c2-451b-b264-fcba33d7288b)
 
 ### LED
 
