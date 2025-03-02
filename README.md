@@ -82,13 +82,13 @@ This system is controlled via an Android application developed using MIT App Inv
 
 ### App Diagram 
 
-![image](https://github.com/user-attachments/assets/320290fd-902c-4b34-8619-a5aa4e32a4b7)
+![image](https://github.com/user-attachments/assets/4525e368-8742-48aa-a11b-62f0acc26aa8)
 
 ### App Features
 
 The Android app consists of five buttons, each assigned to a different functionality of the system. The app interface allows users to control streetlights efficiently.
 
-![image](https://github.com/user-attachments/assets/9d26fff6-f2aa-49aa-b7ce-84a45190059b)
+![image](https://github.com/user-attachments/assets/f0cab28b-b29e-492d-b185-52fc2b616bb3)
 
 ### Steps to Use the System
 
